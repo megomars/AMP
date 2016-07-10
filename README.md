@@ -27,6 +27,7 @@ Implements all the best performance practices including asynchronous javascript.
 ## Google Caching over HTTP 2.0
 Serves the quickest possible pages by serving them off of Google's servers. Also has a built in validation system to ensure that all your markup is correct.
 
+This REPO will contain all of the lessons that we learn as we go on the AMP journey to more engaging interactive websites.
+
 ## Here's the final product:
 http://interactive.aljazeera.com/aje/2016/labs/hello-amp.html
-
