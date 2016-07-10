@@ -6,6 +6,8 @@ The 3 elements of an AMP page are:
 2. AMP JS markup
 3. Google's AMP cache
 
+Full details here - [https://www.ampproject.org/docs/get_started/create_page.html](https://www.ampproject.org/docs/get_started/create_page.html)
+
 ##New AMP HTML tags
 1. 	```
 	<!doctype html>
@@ -25,5 +27,6 @@ Implements all the best performance practices including asynchronous javascript.
 ## Google Caching over HTTP 2.0
 Serves the quickest possible pages by serving them off of Google's servers. Also has a built in validation system to ensure that all your markup is correct.
 
-
+## Here's the final product:
+http://interactive.aljazeera.com/aje/2016/labs/hello-amp.html
 
