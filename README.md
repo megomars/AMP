@@ -1,5 +1,8 @@
 #Getting started with AMP
-The following page will get you started with accelerated mobile pages (AMP). Why AMP? Because speed should be a core feature of a mobile website. Slow sites = a bad user experience and a bad user experience = a non-returning visitor. 40% of users drop off after 3 seconds.
+The following page will get you started with accelerated mobile pages (AMP).
+Why AMP? Because speed should be a core feature of a mobile website.
+A slow site equals a bad user experience and a bad user experience results in a non-returning visitor.
+Stats have shown that 40% of users drop off after 3 seconds if the page has not loaded.
 
 The 3 elements of an AMP page are:
 1. AMP HTML markup
