@@ -34,8 +34,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 		        ]
 		      }
 		    </script>
-		    
-		```
+			```
 2. ##Metadata tags
 			```
    		 <meta name="author" content="Al Jazeera"/>
@@ -55,7 +54,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
    		 <meta name="title" content="THE MATRIARCHS OF MTHATHA" >
    		 <meta name="description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60.">
    		 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
-		```
+			```
 
 3. ##Style
 			```
@@ -214,7 +213,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 					<amp-social-share  width="60" height="44" class="socialbutton1" type="whatsapp" data-param-text="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
           <amp-social-share  width="60" height="44" class="socialbutton2" type="twitter" data-param-text="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
           <amp-social-share  width="60" height="44" class="socialbutton2" type="facebook" data-param-url="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
-		```
+			```
 
 5. ##Responsive images
 			```
@@ -223,7 +222,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 6. ##Blockquotes
 			```
 			<blockquote>We, as women of this area, took a decision to support one another - <strong>Nozukhile Hadi</strong> </blockquote>
-		 ```
+			 ```
 7. ##Vimeo videos
 			```
 			<amp-vimeo
@@ -231,7 +230,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
         layout="responsive"
         width="500" height="281">
     </amp-vimeo>
-		  ```
+			```
 8. ##Carousel
 			```
 		<amp-carousel id="carousel" width="800" height="667" autoplay controls layout="responsive" type="slides">
@@ -239,17 +238,17 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
           <amp-img src="images/farming.jpg" layout="responsive" alt="" height="667" width="800"></amp-img>
           <amp-img src="images/women.jpg" layout="responsive" alt="" height="667" width="800"></amp-img>
     </amp-carousel>
-		```
+			```
 9. ##Quiz
 			```
 		<amp-apester-media
         height="390"
         data-apester-media-id="58aab4d23d7ca9a841f32966">
     </amp-apester-media>
-		```
+			```
 
 10. ##amp-analytics
-		```
+			```
 		<amp-analytics type="chartbeat">
     <script type="application/json">
         {
@@ -276,4 +275,4 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
     }
     </script>
     </amp-analytics>
-		```
+			```
