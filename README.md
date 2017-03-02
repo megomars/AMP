@@ -5,7 +5,8 @@ A slow site equals a bad user experience and a bad user experience results in a 
 Stats have shown that 40% of users drop off after 3 seconds if the page has not loaded.
 
 1. ##Opening tags
-		```
+			```
+		
 		<!doctype html>
 		<html amp lang="en">
 		  <head>
@@ -33,9 +34,10 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 		        ]
 		      }
 		    </script>
+		    
 		```
 2. ##Metadata tags
-		```
+			```
    		 <meta name="author" content="Al Jazeera"/>
    		 <meta property="og:title" content="THE MATRIARCHS OF MTHATHA"/>
     		 <meta property="og:description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
@@ -56,7 +58,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 		```
 
 3. ##Style
-	```
+			```
 		<style amp-custom>
       body {
       background-color: white;
@@ -208,7 +210,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
   		</style>
 			```
 4. ##Social sharing buttons
-				```
+			```
 					<amp-social-share  width="60" height="44" class="socialbutton1" type="whatsapp" data-param-text="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
           <amp-social-share  width="60" height="44" class="socialbutton2" type="twitter" data-param-text="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
           <amp-social-share  width="60" height="44" class="socialbutton2" type="facebook" data-param-url="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
@@ -219,11 +221,11 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 			<amp-img src="images/landgif.gif" layout="responsive" alt="" height="338" width="600"></amp-img>
 			```
 6. ##Blockquotes
-		 ```
+			```
 			<blockquote>We, as women of this area, took a decision to support one another - <strong>Nozukhile Hadi</strong> </blockquote>
 		 ```
 7. ##Vimeo videos
-		  ```
+			```
 			<amp-vimeo
         data-videoid="205344910"
         layout="responsive"
@@ -231,7 +233,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
     </amp-vimeo>
 		  ```
 8. ##Carousel
-		```
+			```
 		<amp-carousel id="carousel" width="800" height="667" autoplay controls layout="responsive" type="slides">
           <amp-img src="images/kids.jpg" layout="responsive" alt="" height="667" width="800"></amp-img>
           <amp-img src="images/farming.jpg" layout="responsive" alt="" height="667" width="800"></amp-img>
@@ -239,7 +241,7 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
     </amp-carousel>
 		```
 9. ##Quiz
-		```
+			```
 		<amp-apester-media
         height="390"
         data-apester-media-id="58aab4d23d7ca9a841f32966">
