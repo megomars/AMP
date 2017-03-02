@@ -34,30 +34,29 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
 		      }
 		    </script>
 		```
-
 2. ##Metadata tags
 		```
-    <meta name="author" content="Al Jazeera"/>
-    <meta property="og:title" content="THE MATRIARCHS OF MTHATHA"/>
-    <meta property="og:description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
-    <meta property="title" content="THE MATRIARCHS OF MTHATHA"/>
-    <meta property="description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
-    <meta property="og:type" content="article.other"/>
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content="@AJEnglish"/>
-    <meta property="twitter:title" content="THE MATRIARCHS OF MTHATHA"/>
-    <meta property="twitter:description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
-    <meta property="image" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg"/>
-    <meta property="twitter:image:src" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg"/>
-    <meta property="og:image" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg"/>
-    <meta name="image" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg">
-    <meta name="title" content="THE MATRIARCHS OF MTHATHA" >
-    <meta name="description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60.">
-    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+   		 <meta name="author" content="Al Jazeera"/>
+   		 <meta property="og:title" content="THE MATRIARCHS OF MTHATHA"/>
+    		 <meta property="og:description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
+   		 <meta property="title" content="THE MATRIARCHS OF MTHATHA"/>
+    		 <meta property="description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
+  		 <meta property="og:type" content="article.other"/>
+   		 <meta name="twitter:card" content="summary_large_image"/>
+	    	 <meta name="twitter:site" content="@AJEnglish"/>
+    		 <meta property="twitter:title" content="THE MATRIARCHS OF MTHATHA"/>
+   		 <meta property="twitter:description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60."/>
+   		 <meta property="image" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg"/>
+   		 <meta property="twitter:image:src" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg"/>
+   		 <meta property="og:image" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg"/>
+   		 <meta name="image" content="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/outside.jpg">
+   		 <meta name="title" content="THE MATRIARCHS OF MTHATHA" >
+   		 <meta name="description" content="Almost 1.5 million or 11% of all households in South Africa are now run by women over the age of 60.">
+   		 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 		```
 
-		3. ##Style
-		```
+3. ##Style
+	```
 		<style amp-custom>
       body {
       background-color: white;
@@ -209,28 +208,28 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
   		</style>
 			```
 4. ##Social sharing buttons
-			```
+				```
 					<amp-social-share  width="60" height="44" class="socialbutton1" type="whatsapp" data-param-text="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
           <amp-social-share  width="60" height="44" class="socialbutton2" type="twitter" data-param-text="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
           <amp-social-share  width="60" height="44" class="socialbutton2" type="facebook" data-param-url="THE MATRIARCHS OF MTHATHA" data-param-url="http://interactive.aljazeera.com/aje/2017/south-africa-grandmothers/index.html"></amp-social-share>
 		```
 
 5. ##Responsive images
-		```
-		<amp-img src="images/landgif.gif" layout="responsive" alt="" height="338" width="600"></amp-img>
-		```
+			```
+			<amp-img src="images/landgif.gif" layout="responsive" alt="" height="338" width="600"></amp-img>
+			```
 6. ##Blockquotes
-		```
-		<blockquote>We, as women of this area, took a decision to support one another - <strong>Nozukhile Hadi</strong> </blockquote>
-		```
+		 ```
+			<blockquote>We, as women of this area, took a decision to support one another - <strong>Nozukhile Hadi</strong> </blockquote>
+		 ```
 7. ##Vimeo videos
-		```
-		<amp-vimeo
+		  ```
+			<amp-vimeo
         data-videoid="205344910"
         layout="responsive"
         width="500" height="281">
     </amp-vimeo>
-		```
+		  ```
 8. ##Carousel
 		```
 		<amp-carousel id="carousel" width="800" height="667" autoplay controls layout="responsive" type="slides">
@@ -276,4 +275,3 @@ Stats have shown that 40% of users drop off after 3 seconds if the page has not 
     </script>
     </amp-analytics>
 		```
-		
